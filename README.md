@@ -1,5 +1,7 @@
 # Parametric-Case-Enclosure
-Parametric Case-Enclosure in FreeCad for electronics or other projects
+Parametric Case-Enclosure in FreeCad for electronics or other projects.
+
+Status: seems to be working, not high priority for me right now, but still on my mind.
 
 Features:
 
