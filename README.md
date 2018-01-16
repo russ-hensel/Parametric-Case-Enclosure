@@ -23,6 +23,7 @@ Features:
         one part.
         
 More information at:  http://www.opencircuits.com/Parametric_3D_Printed_Electronics_Case/Enclosure
+Also an instructable at: https://www.instructables.com/id/Any-Size-Enclosure-You-Want/
 
 
      
